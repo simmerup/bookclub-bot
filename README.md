@@ -5,6 +5,17 @@ A simple bot for bookclubs.
 Suggestions/prs welcome.
 
 ## Run
+Commands, where {} is user input:
+
+Goodreads commands:
+* !bookie find {book to search for}
+
+General commands:
+* !bookie help
+* !bookie suggestion {suggestion to save}
+
+
+## Run
 
 ### Pre-Reqs
 Install NodeJS.
